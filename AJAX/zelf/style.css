@@ -1,0 +1,15 @@
+/* HIER ALLE STYLE VAN DE STATISCH PAGE */
+body {
+    margin: 0px;
+    padding: 0px;
+    background: linear-gradient(45deg, rgb(202, 115, 115), rgb(233, 155, 110));
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+}
+
+.table thead th {
+    /* vertical-align: bottom; */
+    border-bottom: 2px solid #dee2e6;
+    border-top: none;
+}
